@@ -16,7 +16,7 @@
 
 ### 오늘의 학습 내용
 🌱 내용 : 학습내용을 간단하게 정리. <br>
-⚡ 해당 저장소 [이동하기]()
+⚡ 해당 저장소 [이동하기](https://github.com/yeonu9/Today_Schedule)
 
 <!--
 **yeonu9/yeonu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
