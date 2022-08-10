@@ -2,12 +2,12 @@
 
 
 ### 머신러닝 클래스
-내용 : 머신러닝을 시작하는 이들을 위한 머신러닝 기본부터 초중급까지의 수업 <br>
-해당 저장소 [이동하기](https://github.com/yeonu9/ML_LIB_CLASS)
+😄 내용 : 머신러닝을 시작하는 이들을 위한 머신러닝 기본부터 초중급까지의 수업 <br>
+⚡ 해당 저장소 [이동하기](https://github.com/yeonu9/ML_LIB_CLASS)
 
 ### 데이터 분석해 보기
-내용 : 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기 <br>
-해당 저장소 [이동하기](https://github.com/yeonu9/MyDataAnalysis_2022)
+🌱 내용 : 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기 <br>
+⚡ 해당 저장소 [이동하기](https://github.com/yeonu9/MyDataAnalysis_2022)
 
 
 <!--
