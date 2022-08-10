@@ -10,8 +10,8 @@
 ⚡ 해당 저장소 [이동하기](https://github.com/yeonu9/MyDataAnalysis_2022)
 
 ### SEMI PROJECT
-🌱 내용 : 'Paddy Doctor : Paddy Disease Classification' 캐글 대회 참여 <br>
- * 벼 잎 이미지에 존재하는 질병 유형 식별
+🌱 내용 : 'Paddy Doctor : Paddy Disease Classification' 캐글 대회 참여 
+ * 벼 잎 이미지에 존재하는 질병 유형 식별 <br>
 ⚡ 해당 저장소 [이동하기](https://melodic-fang-c70.notion.site/1-f870d0f920274e57832c6b02adeeeb91)
   
 
