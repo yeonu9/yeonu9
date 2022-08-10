@@ -9,6 +9,11 @@
 🌱 내용 : 다양한 데이터 셋을 기본 EDA부터 기본모델까지 만들어보기 <br>
 ⚡ 해당 저장소 [이동하기](https://github.com/yeonu9/MyDataAnalysis_2022)
 
+### SEMI PROJECT
+🌱 내용 : 'Paddy Doctor : Paddy Disease Classification' 캐글 대회 참여
+⚡ 해당 저장소 [이동하기](https://melodic-fang-c70.notion.site/1-f870d0f920274e57832c6b02adeeeb91)
+  * 벼 잎 이미지에 존재하는 질병 유형 식별
+
 
 <!--
 **yeonu9/yeonu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
