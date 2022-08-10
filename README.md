@@ -14,6 +14,9 @@
 ⚡ 해당 저장소 [이동하기](https://melodic-fang-c70.notion.site/1-f870d0f920274e57832c6b02adeeeb91)
   * 벼 잎 이미지에 존재하는 질병 유형 식별
 
+### 오늘의 학습 내용
+🌱 내용 : 학습내용을 간단하게 정리. <br>
+⚡ 해당 저장소 [이동하기]()
 
 <!--
 **yeonu9/yeonu9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
