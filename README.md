@@ -13,6 +13,11 @@
 🌱 내용 : 'Paddy Doctor : Paddy Disease Classification' 캐글 대회 참여 <br>
 ⚡ 해당 notion 정리 페이지 [이동하기](https://melodic-fang-c70.notion.site/1-f870d0f920274e57832c6b02adeeeb91)
  * 벼 잎 이미지에 존재하는 질병 유형 식별 <br>
+ 
+### TEAM PROJECT
+🌱 내용 : 'American Express - Default Prediction' 캐글 대회 참여 대용량 데이터 분석(50G) <br>
+⚡ 해당 notion 정리 페이지 [이동하기](https://forested-oval-40f.notion.site/50G-de5dab972ea745cd94d26e1ef66b5345)
+ * 고객이 미래에 파산할 것인지 아닌지를 예측 <br>
 
 ### 오늘의 학습 내용
 🌱 내용 : 학습내용을 간단하게 정리. <br>
